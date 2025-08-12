@@ -8,23 +8,23 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Lilanga Gamage
+    name: Devapriya Herath
     tagline: Senior Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: lilanga@live.com
+    email: devapriyabandara@gmail.com
     phone: 
     timezone:
     citizenship:
-    website: bitsfactory.lilanga.me
-    linkedin: lilanga
+    website: abc.com
+    linkedin: devapriyabandaraherath
     xing:
-    github: Lilanga
+    github: devapriyabandara
     telegram:
     gitlab:
     bitbucket:
-    twitter: '@lilanga_g'
+    twitter: '@devapriyab'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -42,26 +42,25 @@ sidebar:
         - item: Cycling
           link:
 
-        - item: Inline Skating
+        - item:  
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      An experienced software engineer passionate about contributing to crafting the best software products, be hands-on in developing novel solutions with research and development. 
-      Played various roles in technical teams such as Solution Architect, Senior software / Cloud engineer, Tech team lead. 
-      Passionate for trying out new technologies. Keen to follow engineering best practices.
+      Technical Lead Consultant with 15+ years experience leading ICT business application architecture, development, deployment, 
+      and enhancement across financial services. Proven record in cutting edge solution design, development, vendor management, 
+      application release, and ITIL-aligned service delivery. Adept at strategic planning, fostering cross-functional collaboration, 
+      and influencing stakeholders to deliver high-quality solutions in compliance-driven environments. Recognized for embedding 
+      innovation, continuous improvement, and systems thinking into all stages of project delivery.
 education:
     title: Education
     info:
-      - degree: BSc (Hons.) in Computer Science
+      - degree: BSc (Hons) in Information Technology
         university: Sri Lanka Institute of Information Technology (SLIIT)
-        time: 2006 - 2010
+        time: 2002 - 2005
         details: |
-          Completed a rigorous BSc (Hons.) program in Computer Science at SLIIT and acquired a comprehensive understanding of computer science principles, programming languages, data structures, algorithms, and software engineering.
           
-          Engaged in collaborative projects, enhancing teamwork and problem-solving skills, actively pursued knowledge of emerging technologies and industry trends through workshops and seminars.
-
 experiences:
     title: Work Experience
     info:
