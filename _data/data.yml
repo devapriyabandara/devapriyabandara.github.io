@@ -113,58 +113,6 @@ experiences:
           
           `Databases:` MS SQL Server -->
 
-      - role: Senior Application Programmer
-        time: July 2018 to February 2022
-        company: Electrify - Singapore
-        details: |
-          Electrify is a Singapore-based peer-to-peer green-energy energy trading company dedicated to solving tough challenges in decentralized energy distribution for the next generation with innovative solutions.
-
-          ##### Responsibilities:
-        
-          - Designed and developed microservices, overseeing peer code reviews.
-          - Developed solution architectures and integration architectures with a focus on scalability, security, risks, costs, and benefits.
-          - Implemented automation, CI/CD strategies, build systems, artifact repositories, and infrastructure as code, while adhering to engineering best practices.
-
-          <!-- ##### Technical Stack:
-        
-          `Cloud technologies:` AWS (GCP, ECR, GCR, Lambda, Cloud watch, WAF, SQS, SNS, Cloud IoT Core) GCP (Pub- Sub, Cloud Run, Events hub, IoT Core), Docker, Kubernetes, Terraform, Serverless Stack
-
-          `Microservices:` Golang, NodeJS, with NATS message queues
-
-          `APIs:` API gateways, REST API, gRPC, MQTT, Modbus, GraphQL API powered by Golang and NodeJS
-
-          `Frontends:` ReactJS
-          
-          `Databases:` PostgreSQL, DynamoDB, Aurora, Redis, MongoDB, Influx DB, Timescale DB
-
-          `CI CD:` Bitbucket, Bitbucket pipelines, Gitlab pipelines, SonarQube -->
-
-      - role: Senior Software Engineer
-        time: July 2019 to November 2019
-        company: Lexro Pvt Ltd. - Singapore|Sri Lanka
-        details: |
-          Lexro is an IT consulting firm that offers expert assistance with clients' technical innovations.
-
-          ##### Responsibilities:
-        
-          - Enhanced solution architectures to facilitate the migration of the client's existing products to scalable and flexible solutions, effectively addressing business needs.
-          - Successfully migrated server-based solutions to Kubernetes clusters, containerizing and optimizing them for improved performance.
-          - Introduced a DevOps culture, incorporating infrastructure as code, build pipelines, and robust monitoring and alerting mechanisms.
-
-          <!-- ##### Technical Stack:
-        
-          `Cloud technologies:` AWS, EKS, ECR, Kubernetes, Grafana, WAF, SQS, SNS, S3, Secret manager, Systems Manager
-
-          `Microservices:` Golang, NodeJS
-
-          `APIs:` Golang, Java
-
-          `Frontends:` ReactJS
-          
-          `Databases:` PostgreSQL, DynamoDB, Aurora, Influx DB
-
-          `CI CD:` Bitbucket, Bitbucket pipelines, SonarQube -->
-
       - role: Technical Specialist | Senior Software Engineer
         time: July 2018 to December 2023
         company: Zeal Solutions Pty Ltd. Australia
