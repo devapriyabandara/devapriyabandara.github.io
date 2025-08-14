@@ -39,6 +39,10 @@ sidebar:
     interests:
       title: Interests
       info:
+      
+        - item: Photography
+          link:
+          
         - item: Cycling
           link:
 
